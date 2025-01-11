@@ -20,7 +20,7 @@ Corpoorations the world over manage large datasets stored in AWS S3. To derive i
 
 1. Set Up an AWS Glue Job (AWS Glue)  
 Create a Glue Job:
-Access the AWS Glue Console and create a new Glue job.
+Access the AWS Glue Console and create a new Glue job (Visual ETL or use a Notebook).
 Define Source and Target:
 Specify the source S3 bucket and folder containing the raw data.
 Define the target S3 bucket and folder for the transformed data.
