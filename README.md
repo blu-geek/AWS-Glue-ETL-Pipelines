@@ -2,7 +2,7 @@
 
 Data Transformation and ETL Pipelines with AWS Glue
 
-Corpoorations the world over manage large datasets stored in AWS S3. To derive insights and generate reports, they need to automate their ETL (Extract, Transform, Load) processes for better efficiency, accuracy, and scalability. The major goal is to streamline data transformation and load into a destination storage system, ensuring the data is ready for analysis.This automation enhances their data processing capabilities, reduces manual effort, and improves data-driven decision-making.
+Corporations the world over manage large datasets stored in AWS S3. To derive insights and generate reports, they need to automate their ETL (Extract, Transform, Load) processes for better efficiency, accuracy, and scalability. The major goal is to streamline data transformation and load into a destination storage system, ensuring the data is ready for analysis.This automation enhances their data processing capabilities, reduces manual effort, and improves data-driven decision-making.
 
 
 
